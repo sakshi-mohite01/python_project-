@@ -8,6 +8,7 @@
 A **Python Tkinter Registration App** connected to a MySQL database. Users can register their personal details through a clean GUI form, and all information is stored securely in the `register` table of the `regi` MySQL database.
 
 ---
+## 📸 Screenshots
 
 ![Main Form](main%20op.png)
 
