@@ -12,19 +12,19 @@ A **Python Tkinter Registration App** connected to a MySQL database. Users can r
 ## 📸 Screenshots
 
 ### Main Registration Form
-![Main Form](screenshots/main%20op.png)
+![main op](screenshots/main%20op.png)
 
 ### Filling In Details
-![Inserting Data](screenshots/inserting%20the%20data%20.png)
+![inserting the data](screenshots/inserting%20the%20data%20.png)
 
 ### Successful Registration Message
-![Success](screenshots/sucessfully.png)
+![successfully](screenshots/sucessfully.png)
 
 ### MySQL Query Output
-![MySQL Query](screenshots/mysql%20query.png)
+![mySQL Query](screenshots/mysql%20query.png)
 
 ### Data Stored in Database
-![Done](screenshots/done.png)
+![done](screenshots/done.png)
 
 ---
 
